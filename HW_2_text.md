@@ -66,7 +66,7 @@ http://162.55.220.72:5005/user_info_2
 3. Вставить параметр name из окружения в name
 4. Отправить запрос.
 5. Статус код 200
-6. Спарсить response body в json.
+6. Спарсить response body в json
 7. Спарсить request.
 8. Проверить, что json response имеет параметр start_qa_salary
 9. Проверить, что json response имеет параметр qa_salary_after_6_months
