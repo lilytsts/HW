@@ -1,4 +1,4 @@
-# Homework_3 Postman.
+# Задание_3 Postman.
 
 1. необходимо залогиниться POST
 ```sql
